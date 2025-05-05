@@ -6,7 +6,11 @@ Hypothesis & Objectives:
 Hypothesis: The financial loss incurred due to web hacking trends is significantly influenced by the country, operating system, web server, and ransom.
 
 Objective 1: Analyzing whether financial loss varies significantly across different countries.
+
 Objective 2: Examining the relationship between the type of web server and the financial loss incurred during an attack.
+
 Objective 3: Determining how the type of operating system impacts the severity of financial loss.
+
 Objective 4: Examining the extent to which ransom demands influence
 the financial loss incurred due to web hacking incidents.
+
