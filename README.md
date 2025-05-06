@@ -14,3 +14,4 @@ Objective 3: Determining how the type of operating system impacts the severity o
 Objective 4: Examining the extent to which ransom demands influence
 the financial loss incurred due to web hacking incidents.
 
+Tools: R, dplyr, stringr, countrycode, ggplot2, tidyr, cluster, FSA, lubridate, MASS, readr, car, rcompanion
